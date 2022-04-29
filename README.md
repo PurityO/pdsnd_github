@@ -17,3 +17,5 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### New info
 Additional additions made
+### Refactoring
+Additions made to refactoring
